@@ -49,6 +49,11 @@ This project effectively leverages a suite of Microsoft tools for comprehensive 
 - Overall Discount Strategy Impact: The current discount methods appear to have a limited contribution to significantly boosting overall sales. This suggests a need to re-evaluate the strategy's effectiveness in driving both sales volume and profitability.
 
 **Recommendation**:
+Based on the analysis of profitability and discount strategy, the following recommendations are proposed to optimize sales performance and maximize profitability:
+- Optimize Discount Strategy for High-Gross-Profit Categories: Conduct a thorough analysis and evaluation of the current marketing strategy, specifically regarding promotions and discounts. The goal is to optimize the conversion of sales volume to Gross Profit Margin (GPM) for products and categories that currently generate high gross profit but may have suboptimal margins due to aggressive discounting (e.g., Mobiles & Tablets).
+- Revitalize Underperforming Products/Categories: Implement a targeted strategy to boost sales for products and categories contributing the lowest gross profit (e.g., School & Education, Books, Others). This requires re-evaluating current marketing approaches, identifying root causes for low performance, and exploring new promotional tactics or product positioning.
+- Enhance Profitability in High-Traffic Payment Methods: Focus on optimizing GPM conversion for transactions utilizing Jazzwallet and Jazzvoucher. Given their high traffic driven by extensive promotions, there's an opportunity to refine discount levels or introduce alternative value propositions to improve profitability without significantly deterring sales volume.
+- Expand Promotional Reach to Untapped Payment Methods: Introduce strategic promotions and discounts to payment methods that currently receive no discounts (e.g., Mygateway, Marketing Expense, MCBLite, UBL Credit Card, Product Credit, Finance Settlement, Cash at Doorstep, Internet Banking). This initiative aims to attract new customers, stimulate sales, and potentially unlock additional profit streams from these underutilized channels.
 
 ### Part 2: Pricing Analysis
 #### Impact of basic_price on Sales:
