@@ -61,6 +61,20 @@ Based on the analysis of profitability and discount strategy, the following reco
 - Analyze sales (sales) and quantity trends (if calculable from sales and basic_price) for each price range.
 - **Question**: How do changes in basic_price (if historical price change data is available for the same SKUs) affect the quantity sold and total sales?
 
+**Insights**:
+- Price Change Data Limitation: It was observed that there is no historical basic price change data available for the same products within the dataset. Therefore, the direct impact of price adjustments on quantity sold and total sales cannot be analyzed. However, observed changes in total quantity sold annually are likely driven by broader market trends and seasonal fluctuations.
+- Quantity Trends by Price Range:
+  - The Medium price range consistently shows the highest total quantity sold, closely followed by the Low price range.
+  - The High price range consistently exhibits the lowest total quantity sold, likely attributable to the higher cost barrier for purchasing these products.
+  - The similar total quantities observed between the Medium and Low price ranges might suggest that some products within these segments offer comparable quality with only slight feature differentiations, leading to similar consumer purchasing behaviors.
+- Sales Contribution by Price Range:
+  - Despite lower quantities, High-price range products contribute the highest total sales revenue, approximately $63 billion, underscoring their significant revenue impact.
+  - Conversely, Low-price range products contribute the lowest total sales, at $1.57 billion.
+- Product-Specific Performance within Price Ranges:
+  - Within the High-price range, "Infinix_Zero 4-Grey" stands out with the highest quantity sold (67 items), generating a substantial $893 million in total sales.
+  - In the Medium price range, "INDROID_BALRX&-Gold" is a top performer, having sold 2,000 items and contributed $10.37 billion to total sales.
+  - "RS_Coconut Bites" is the highest contributor in terms of total quantity across all ranges (300 items sold), generating $25.23 million in total sales, highlighting its strong volume performance within its respective price segment.
+
 #### Competitor Pricing Strategy (Assumption):
 - Assume you have competitor pricing data (you can create this as dummy data or an assumption).
 - Compare your basic_price with competitor prices.
