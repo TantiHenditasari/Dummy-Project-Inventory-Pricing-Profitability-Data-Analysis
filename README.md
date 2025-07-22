@@ -1,6 +1,7 @@
 # DUMMY-PROJECT-INVENTORY-PRICING-&-PROFITABILITY-DATA-ANALYSIS
 ## OVERVIEW
 This project showcases a comprehensive data analysis workflow focused on inventory, pricing, and profitability, designed to provide actionable insights for business decision-making. Utilizing a combination of Excel and Power BI, the project demonstrates proficiency in data transformation, visualization, and advanced analytical techniques.
+
 ###Key Features:
 - Data Preparation & Transformation: Leveraged Power Query in Excel for robust data cleaning, reshaping, and transformation of raw sales data into an analytical-friendly structure.
 - Profitability Analysis: Conducted in-depth analysis of gross profit margins across various product categories, effectively identifying both high-performing and underperforming products/categories to highlight areas for strategic focus.
