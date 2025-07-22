@@ -40,6 +40,13 @@ This project effectively leverages a suite of Microsoft tools for comprehensive 
 - **Question**: Is the current discount strategy optimal in maximizing profitability, or does it require adjustment?
 
 **Insights**:
+- Discount Distribution by Category: The Entertainment category receives the highest average discount amount ($238k), while the Books category receives the lowest ($6.95k).
+- Discount Distribution by Payment Method: Jazzwallet transactions receive the highest average discount amount, totaling $1.15 million. Conversely, several payment methods, including Mygateway, Marketing Expense, MCBLite, UBL Credit Card, Product Credit, Finance Settlement, Cash at Doorstep, and Internet Banking, show no applied discounts.
+- Discount Effectiveness vs. Profitability: Analysis of gross profit distribution alongside average discount amounts suggests that extensive discounting does not consistently translate into higher Gross Profit Margins (GPMs) or elevate categories into the top 5 for GPM. While discounting might boost gross profit amounts, its impact on margins is questionable.
+  - Case Study: Entertainment Category: Despite receiving a high average discount, the Entertainment category remains in the bottom 5 for average GPM, and its products do not appear in the top 10 for highest total gross profit. This indicates that heavy discounting in this category is not driving significant profitability.
+  - Case Study: Mobiles & Tablets Category: This category, which contributes the highest total gross profit, has an average discount of $99.98k, suggesting a more moderate discounting approach compared to Entertainment.
+- Targeted Discounting (Books Category): The Books category applies discounts exclusively to transactions made via PayAxis, customer credit, and Cash on Delivery (COD), indicating a highly specific and limited discount strategy for this low-margin category.
+- Overall Discount Strategy Impact: The current discount methods appear to have a limited contribution to significantly boosting overall sales. This suggests a need to re-evaluate the strategy's effectiveness in driving both sales volume and profitability.
 
 **Recommendation**:
 
