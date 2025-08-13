@@ -49,7 +49,6 @@ This project effectively leverages a suite of Microsoft tools for comprehensive 
 - Overall Discount Strategy Impact: The current discount methods appear to have a limited contribution to significantly boosting overall sales. This suggests a need to re-evaluate the strategy's effectiveness in driving both sales volume and profitability.
 
 **Recommendation**:
-Based on the analysis of profitability and discount strategy, the following recommendations are proposed to optimize sales performance and maximize profitability:
 - Optimize Discount Strategy for High-Gross-Profit Categories: Conduct a thorough analysis and evaluation of the current marketing strategy, specifically regarding promotions and discounts. The goal is to optimize the conversion of sales volume to Gross Profit Margin (GPM) for products and categories that currently generate high gross profit but may have suboptimal margins due to aggressive discounting (e.g., Mobiles & Tablets).
 - Revitalize Underperforming Products/Categories: Implement a targeted strategy to boost sales for products and categories contributing the lowest gross profit (e.g., School & Education, Books, Others). This requires re-evaluating current marketing approaches, identifying root causes for low performance, and exploring new promotional tactics or product positioning.
 - Enhance Profitability in High-Traffic Payment Methods: Focus on optimizing GPM conversion for transactions utilizing Jazzwallet and Jazzvoucher. Given their high traffic driven by extensive promotions, there's an opportunity to refine discount levels or introduce alternative value propositions to improve profitability without significantly deterring sales volume.
@@ -81,13 +80,11 @@ Based on the analysis of profitability and discount strategy, the following reco
 - **Question**: Are there opportunities to adjust the price of certain products to increase competitiveness without significantly sacrificing profitability?
 
 **Insights**:
-Based on comparative analysis with assumed competitor pricing data, strategic price adjustment opportunities exist across various price ranges:
 - For products in the high-price range, a price adjustment of under 3% is feasible without significantly sacrificing profit. This is primarily due to their already premium pricing standard and strong brand recognition (especially for well-known brands), which allows for minor adjustments without eroding perceived value or profitability.
 - Products in the medium-price range present an opportunity for price adjustments of up to 6% to significantly boost competitiveness. This range offers flexibility to attract a larger customer base by aligning more closely with competitor pricing or offering a more compelling value proposition.
 - Price adjustments of up to 6% can also be considered for low-price range products, primarily aimed at boosting the quantity sold. However, given the inherently thin profit margins in this segment, a careful assessment is required. If the margins are critically thin, maintaining current pricing without adjustment might be a more prudent strategy to preserve profitability.
 
 **Recommendations**:
-Based on the analysis of sales, quantity trends, and pricing opportunities, the following strategic recommendations are proposed:
 - Continuous Market and Competitor Price Monitoring: Implement a robust system for continuous observation and analysis of competitor and market prices for similar products. This proactive approach is crucial to maintain competitive pricing, inform dynamic price adjustments, and sustain sales performance.
 - Optimize Profit Conversion in High-Volume Segments: Focus on optimizing sales and profit conversion for products within the Low and Medium price ranges. Given their high sales performance and quantity sold, strategies should aim to enhance profitability per unit without deterring volume, potentially through refined discount strategies or value-added bundling.
 - Boost Sales Volume for High-Price Range Products: Conduct a comprehensive analysis and evaluation of the marketing strategy for High-price range products. The objective is to significantly increase their quantity sales, thereby maximizing overall sales revenue and profit contribution from this high-value segment.
@@ -99,6 +96,28 @@ Based on the analysis of sales, quantity trends, and pricing opportunities, the 
 - Analyze monthly and seasonal sales trends for the Top 5 best-selling products and Top 5 best-selling categories.
 - **Question**: Are there clear seasonal patterns or growth/decline trends for key products/categories?
 
+**Insights**:
+- Seasonal trend of top 5 produts:
+  - IDROIX_BALRX7-Gold showed no sales activity in 2021 and the first half of 2022. However, it experienced an explosive sales performance in Q3 2022 (August-September), generating approximately $5.18 billion in sales during this period. This sudden surge and high sales performance in 2022, following no sales in 2021, strongly suggests that this is a newly launched product that quickly became a high-demand, 'hot-cake' item, reflecting a significant recent trend in technology
+  - Samsung Galaxy S-7 maintained high and stable sales throughout 2021, peaking at $638.9 million in September 2021. However, its performance declined sharply, resulting in no sales in 2022. This significant decrease is likely attributed to the market's shift towards newer technology and updated product features
+  - Mac-Book Pro 15 Inch demonstrated strong performance from Q2 2021 through Q2 2022, reaching its peak sales of $817.8 million in April 2022. Nevertheless, sales for this product ceased entirely in the second half of 2022
+  - iPhone 7 began to establish its market dominance within the iPhone series during the last quarter of 2021. It continued to exhibit stable performance, reaching its peak sales of $513 million in March 2022
+  - iPhone 6S Pro demonstrated strong sales performance throughout 2021 and into early 2022, peaking at $538 million in December 2021. Its sales performance in 2022 indicates a clear customer shift towards newer iPhone series models
+- Seasonal trend of top 5 categories:
+  - Mobiles & Tablets category consistently held the highest sales contribution, particularly from Q2 2021 to Q3 2022, peaking significantly in August-September 2022 with sales reaching $5.6 billion. Despite a sharp decline in Q4 2022, it remained the top-performing category, still generating $460 million in November 2022. This consistent leadership is likely driven by high demand for technology and the inherently high price points of its products
+  - Enterntainment category experienced its sales peak in Q2 2022, specifically reaching $2.26 billion in April 2022. Sales subsequently declined after this peak season
+  - Computing category demonstrated strong sales performance from Q3 2021 through Q2 2022, achieving its peak sales of $1.39 billion in April 2022
+  - Appliance category also showed a significant contribution to sales in Q2 2022, peaking at $1.17 billion in May 2022
+  - Men Fashion category The Men Fashion category reached its sales peak in Q2 2022, specifically recording $372 million in May 2022
+  - Notably, all categories experienced a decrease in sales during Q4 2022. This downturn can likely be attributed to shifts in customer behavior during the year-end holiday season, where spending may shift towards non-online shopping activities or other priorities
+  - Except the Mobiles & Tablets category, the remaining top-performing categories (Entertainment, Computing, Appliances, and Men Fashion) demonstrated their highest sales performance during Q2 2022. This synchronized surge across multiple categories during Q2 strongly suggests that it was driven by major seasonal events, targeted promotional campaigns, or broader market trends that significantly boosted consumer spending during that period
+
+**Recommendations**:
+- Conduct comprehensive research and analysis into market trends, customer preferences, and behavior, particularly focusing on how these factors fluctuate between peak and low seasons. Utilize these insights to develop a robust strategic marketing plan aimed at sustaining high sales performance during peak periods and effectively mitigating sharp declines during low seasons
+- Implement proactive sales optimization strategies specifically targeting low seasons. This includes executing timely promotions, engaging events, or offering attractive vouchers to stimulate demand and boost sales when natural momentum is lower
+- Evaluate and adapt successful marketing strategies from peak seasons for application during low seasons. This approach seeks to leverage proven methodologies to drive performance even during challenging periods
+- Maintain continuous vigilance on evolving market trends, technological advancements, and shifts in consumer preferences. This proactive monitoring is crucial for adapting strategies and ensuring sustained high sales performance, particularly for high-contributing categoriesMaintain high sales performance by keep observe and the market trend and lastest update of trend
+
 #### Demand Forecasting:
 - Select 3-5 of the most important products (sku_name) (e.g., best-selling or most profitable).
 - Use forecasting features in Excel/Spreadsheets (e.g., Forecast Sheet or FORECAST.ETS) to predict the sales quantity for these products for the next 3-6 months.
@@ -108,7 +127,7 @@ Based on the analysis of sales, quantity trends, and pricing opportunities, the 
 - Analyze the trend of COGS per unit for key products (if COGS in the column is total, you need to calculate COGS per unit).
 - **Question**: Is there significant variation in COGS over time or across products? How do these COGS fluctuations affect Gross Profit Margin and pricing strategies?
 
-**Insoghts**:
+**Insights**:
 
 **Recommendations**:
 
