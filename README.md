@@ -101,7 +101,7 @@ This project effectively leverages a suite of Microsoft tools for comprehensive 
   - IDROIX_BALRX7-Gold showed no sales activity in 2021 and the first half of 2022. However, it experienced an explosive sales performance in Q3 2022 (August-September), generating approximately $5.18 billion in sales during this period. This sudden surge and high sales performance in 2022, following no sales in 2021, strongly suggests that this is a newly launched product that quickly became a high-demand, 'hot-cake' item, reflecting a significant recent trend in technology
   - Samsung Galaxy S-7 maintained high and stable sales throughout 2021, peaking at $638.9 million in September 2021. However, its performance declined sharply, resulting in no sales in 2022. This significant decrease is likely attributed to the market's shift towards newer technology and updated product features
   - Mac-Book Pro 15 Inch demonstrated strong performance from Q2 2021 through Q2 2022, reaching its peak sales of $817.8 million in April 2022. Nevertheless, sales for this product ceased entirely in the second half of 2022
-  - iPhone 7 began to establish its market dominance within the iPhone series during the last quarter of 2021. It continued to exhibit stable performance, reaching its peak sales of $513 million in March 2022
+  - iPhone 7 Matt-Black began to establish its market dominance within the iPhone series during the last quarter of 2021. It continued to exhibit stable performance, reaching its peak sales of $513 million in March 2022
   - iPhone 6S Pro demonstrated strong sales performance throughout 2021 and into early 2022, peaking at $538 million in December 2021. Its sales performance in 2022 indicates a clear customer shift towards newer iPhone series models
 - Seasonal trend of top 5 categories:
   - Mobiles & Tablets category consistently held the highest sales contribution, particularly from Q2 2021 to Q3 2022, peaking significantly in August-September 2022 with sales reaching $5.6 billion. Despite a sharp decline in Q4 2022, it remained the top-performing category, still generating $460 million in November 2022. This consistent leadership is likely driven by high demand for technology and the inherently high price points of its products
@@ -123,12 +123,27 @@ This project effectively leverages a suite of Microsoft tools for comprehensive 
 - Use forecasting features in Excel/Spreadsheets (e.g., Forecast Sheet or FORECAST.ETS) to predict the sales quantity for these products for the next 3-6 months.
 - **Question**: Based on demand forecasts, what is the estimated stock requirement for these products in the coming months to avoid overstock or stock-out?
 
+**Insights**:
+- IDROIX_BALRX7-Gold is predicted to continue dominating the smartphone market, with estimated sales ranging from $1.3 billion to $1.7 billion per month over the next six months of 2023. Its total projected worth for this period is approximately $9.1 billion. This explosive growth is likely attributable to its competitive pricing (mid-range) combined with its incorporation of the latest advanced technologies, making it a highly attractive and in-demand product
+- Alongside IDROIX_BALRX7-Gold, the iPhone 7 Matt-Black is also forecasted to maintain a strong presence in the smartphone market, specifically leading sales within the iPhone series. Over the next six months, its estimated total worth is around $510 million, with projected monthly sales between $76 million and $93 million. This continued performance might be driven by its appealing features and newer models compared to other iPhone series
+- However, Samsung Galaxy S-7, Mac-Book Pro 15 Inch, and iPhone 6S Pro are all projected to experience a negative sales worth. This trend strongly suggests that these products are nearing the end of their lifecycle and will likely cease to be sold, as they no longer align with current market trends and customer needs. This decline is predominantly due to the continuous introduction of newer products with more advanced features and technologies that better suit evolving customer preferences and requirements
+
+**Recommendations**:
+- While IDROIX_BALRX7-Gold is projected to be the highest sales contributor in the first half of 2023, warranting a significant restock (estimated 1,500 - 1,700 units), its concentrated sales in Q3 2022 necessitate caution. Therefore, it is crucial to conduct ongoing analysis of market trends and demand fluctuations to optimize inventory levels and prevent overstocking, ensuring efficient capital utilization for this highly seasonal product
+- Although the iPhone 7 Matt-Black showed high sales performance in terms of total value in 2021-2022 (approximately $1.3 billion) from a very limited volume of units (23 units in total), projections for the next six months in 2023 indicate a very low total unit sales volume (around 9-10 units total). Given this, large-scale restocking is strongly discouraged. However, to anticipate potential unexpected demand surges due to specific seasonal events or market trends, a minimal restocking (for instance, around 14-15 units) can be considered. Any restocking decision must be based on thorough deep market research, analysis of current seasonal trends, and a specific evaluation of customer behavior to assess any residual or specialized demand. Prioritize selling existing units first
+- Even as top-selling items decline in general market appeal, there remains a potential opportunity to sell off existing inventory of these legacy products to price-sensitive customer segments who may not prioritize the latest models or features. It is crucial to avoid to restock these items in bulk. Develop and implement a strategic marketing plan specifically targeting these segments with appropriate pricing, bundling, or promotional offers to optimize the sales of remaining stock over the next six months without incurring losses from obsolete inventory
+
 #### COGS (Cost of Goods Sold) Analysis and Implications:
 - Analyze the trend of COGS per unit for key products (if COGS in the column is total, you need to calculate COGS per unit).
 - **Question**: Is there significant variation in COGS over time or across products? How do these COGS fluctuations affect Gross Profit Margin and pricing strategies?
 
 **Insights**:
-
+- The Cost of Goods Sold (COGS) remained consistent without significant variation across the period of 2021 to 2022
+- Consequently, the Gross Profit Margin (GPM) for these products remained relatively stable or stagnant throughout the same period
+- Any minor observed decreases in GPM are likely attributable to the application of discounts or promotional activities, rather than fluctuations in the inherent cost of goods
+  
 **Recommendations**:
-
+- Regularly analyze both the Cost of Goods Sold (COGS) and pricing strategies to ensure that the GPM remains at an optimal level for each product
+- Since COGS has been stable, the primary levers for GPM optimization will be pricing adjustments and strategic promotional planning that doesn't erode profitability
+- Actively seek opportunities to enhance efficiency in the supply chain or negotiate better terms with suppliers to explore potential for further profit growth
 
