@@ -27,6 +27,10 @@ This project effectively leverages a suite of Microsoft tools for comprehensive 
 - Identify the Top 5 and Bottom 5 categories (category) based on Gross Profit Margin.
 - **Question**: How is profitability distributed across products and categories? Are there products or categories with high sales but low margins, or vice versa?
 
+<img width="473" height="225" alt="image" src="https://github.com/user-attachments/assets/75a69b2e-a123-4d5f-b7da-d9712dfaf71a" />
+<img width="474" height="225" alt="image" src="https://github.com/user-attachments/assets/110fd0e5-8cc6-4312-941e-10114e967b4c" />
+<img width="476" height="221" alt="image" src="https://github.com/user-attachments/assets/a48a0abc-3f46-4465-b9d2-7324f12cb8dd" />
+
 **Insights**:
 - Top Performers: Electronic products, predominantly from the Mobiles & Tablets category (such as products from iPhone, Samsung, and IDROIX) consistently show the highest gross profit, generating total gross profit ranging from $300 to $500 M .
 - Underperformers: Products with the lowest gross profit are primarily found within the School & Education, Books, and Others categories. Notably, the 4U_Service product exhibit the lowest total gross profit at -$23.66k. This negative value is likely a result of the heavy discounts applied to this product, which our analysis shows can significantly decrease overall gross profit.
@@ -37,6 +41,8 @@ This project effectively leverages a suite of Microsoft tools for comprehensive 
 - Calculate the average discount given per category and per payment_method.
 - Analyze the impact of discounts on Gross Profit Margin. Do higher discounts always result in lower total Gross Profit, or is there an optimal point where discounts drive sales volume that compensates?
 - **Question**: Is the current discount strategy optimal in maximizing profitability, or does it require adjustment?
+
+<img width="1013" height="571" alt="image" src="https://github.com/user-attachments/assets/9423af4c-7f64-4190-b84b-d49799d2ad7a" />
 
 **Insights**:
 - The Appliances category receives the highest average discount amount ($171.49k), while the Books category receives the lowest ($4.77k).
@@ -59,6 +65,9 @@ This project effectively leverages a suite of Microsoft tools for comprehensive 
 - Group products by basic_price ranges (e.g., low, medium, high).
 - Analyze sales (sales) and quantity trends (if calculable from sales and basic_price) for each price range.
 - **Question**: How do changes in basic_price (if historical price change data is available for the same SKUs) affect the quantity sold and total sales?
+
+<img width="945" height="221" alt="image" src="https://github.com/user-attachments/assets/9ad0629a-1068-418b-9941-54590935cbc7" />
+<img width="946" height="223" alt="image" src="https://github.com/user-attachments/assets/9090f829-ad60-4598-9590-c6cc36f16a35" />
 
 **Insights**:
 - It was observed that there is no historical basic price change data available for the same products within the dataset. Therefore, the direct impact of price adjustments on quantity sold and total sales cannot be analyzed. However, observed changes in total quantity sold annually are likely driven by broader market trends and seasonal fluctuations.
@@ -92,6 +101,9 @@ This project effectively leverages a suite of Microsoft tools for comprehensive 
 #### Product & Category Sales Trends:
 - Analyze monthly and seasonal sales trends for the Top 5 best-selling products and Top 5 best-selling categories.
 - **Question**: Are there clear seasonal patterns or growth/decline trends for key products/categories?
+
+<img width="945" height="220" alt="image" src="https://github.com/user-attachments/assets/e868779d-31f7-46ac-afe9-06a6d01ea18e" />
+<img width="863" height="631" alt="image" src="https://github.com/user-attachments/assets/03b257bf-364d-4ef2-a60d-90d5acacf38d" />
 
 **Insights**:
 - Seasonal trend of top 5 produts:
@@ -135,6 +147,8 @@ This project effectively leverages a suite of Microsoft tools for comprehensive 
 #### COGS (Cost of Goods Sold) Analysis and Implications:
 - Analyze the trend of COGS per unit for key products (if COGS in the column is total, you need to calculate COGS per unit).
 - **Question**: Is there significant variation in COGS over time or across products? How do these COGS fluctuations affect Gross Profit Margin and pricing strategies?
+
+<img width="1009" height="282" alt="image" src="https://github.com/user-attachments/assets/daa25b60-c4b6-4396-b435-daf9b1e7452f" />
 
 **Insights**:
 - The Cost of Goods Sold (COGS) remained consistent without significant variation across the period of 2021 to 2022
